@@ -60,3 +60,6 @@ set hidden
 
 nnoremap <Tab> gt
 nnoremap <S-Tab> gT
+
+"Plugins to be installed
+"install Easy motion
